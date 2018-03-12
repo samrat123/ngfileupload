@@ -1,12 +1,23 @@
-{
-	"slids": [{
-		"src": "src",
-		"title": "dist"
-	}, {
-		"src": "src",
-		"title": "dist"
-	}, {
-		"src": "src",
-		"title": "dist"
-	}]
-}
+[
+    
+    {
+       image: `https://valor-software.com/ngx-bootstrap/assets/images/nature/1.jpg`,
+       title:`First slide label`,
+       description:`Ipsum lorem porem dummy text`
+    },
+    {
+       image: `https://valor-software.com/ngx-bootstrap/assets/images/nature/2.jpg`,
+       title:`Second slide label`,
+       description:`Ipsum lorem porem dummy text`
+    },
+    {
+       image: `https://valor-software.com/ngx-bootstrap/assets/images/nature/3.jpg`,
+       title:`Third slide label`,
+       description:`Ipsum lorem porem dummy text`
+    },
+    {
+       image: `https://valor-software.com/ngx-bootstrap/assets/images/nature/4.jpg`,
+       title:`Fourth slide label`,
+       description:`Ipsum lorem porem dummy text`
+    }
+  ]
